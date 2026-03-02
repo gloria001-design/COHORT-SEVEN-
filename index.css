@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.p{
+    width:100%;
+    background-color: red;
+
+}
+h2{
+    width:100%;
+    background-color: green;
+}
